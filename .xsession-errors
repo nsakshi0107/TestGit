@@ -1,0 +1,53 @@
+Xsession: X session started for ubuntu at Sun Apr 28 03:54:37 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2876]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2877]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2869): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2869): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2904): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2879): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 2889: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:2888): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfsettingsd:2904): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+Thunar: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 104 (Connection reset by peer) on X server :10.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfce4-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+(xfsettingsd:2904): libxfce4ui-WARNING **: ICE I/O Error
+gpg-agent[2877]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2877]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2877]: SIGTERM received - shutting down ...
+gpg-agent[2877]: gpg-agent (GnuPG) 2.1.11 stopped
+Xsession: X session started for ubuntu at Mon Apr 29 17:08:46 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[3527]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[3528]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:3520): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:3520): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+
+(xfsettingsd:3540): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:3530): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 3541: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:3539): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
