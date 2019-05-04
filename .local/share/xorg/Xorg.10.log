@@ -416,3 +416,134 @@ Release Date: 2016-07-19
 [  3642.231] rdpkeybChangeKeyboardControl: autoRepeat off
 [  3642.231] rdpkeybChangeKeyboardControl:
 [  3642.231] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3897.070] rdpkeybChangeKeyboardControl:
+[  3897.070] rdpkeybChangeKeyboardControl: autoRepeat on
+[  3897.070] rdpkeybChangeKeyboardControl:
+[  3897.070] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3897.170] rdpInDeferredUpdateCallback:
+[  3897.170] rdpkeybChangeKeyboardControl:
+[  3897.170] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3897.170] rdpkeybChangeKeyboardControl:
+[  3897.170] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3897.407] rdpkeybChangeKeyboardControl:
+[  3897.407] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3897.407] rdpkeybChangeKeyboardControl:
+[  3897.408] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3918.881] rdpkeybChangeKeyboardControl:
+[  3918.881] rdpkeybChangeKeyboardControl: autoRepeat off
+[  3918.881] rdpkeybChangeKeyboardControl:
+[  3918.881] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4034.262] rdpkeybChangeKeyboardControl:
+[  4034.262] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4034.263] rdpkeybChangeKeyboardControl:
+[  4034.263] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4034.380] rdpkeybChangeKeyboardControl:
+[  4034.380] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4034.380] rdpkeybChangeKeyboardControl:
+[  4034.380] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4040.880] rdpkeybChangeKeyboardControl:
+[  4040.880] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4040.880] rdpkeybChangeKeyboardControl:
+[  4040.880] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4044.615] rdpkeybChangeKeyboardControl:
+[  4044.615] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4044.615] rdpkeybChangeKeyboardControl:
+[  4044.615] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4207.918] rdpkeybChangeKeyboardControl:
+[  4207.918] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4207.918] rdpkeybChangeKeyboardControl:
+[  4207.918] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4208.231] rdpkeybChangeKeyboardControl:
+[  4208.231] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4208.232] rdpkeybChangeKeyboardControl:
+[  4208.232] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4299.792] rdpkeybChangeKeyboardControl:
+[  4299.793] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4299.793] rdpkeybChangeKeyboardControl:
+[  4299.793] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4314.344] rdpkeybChangeKeyboardControl:
+[  4314.344] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4314.345] rdpkeybChangeKeyboardControl:
+[  4314.345] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4627.435] rdpkeybChangeKeyboardControl:
+[  4627.435] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4627.435] rdpkeybChangeKeyboardControl:
+[  4627.435] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4634.883] rdpkeybChangeKeyboardControl:
+[  4634.883] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4634.883] rdpkeybChangeKeyboardControl:
+[  4634.883] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4793.181] rdpkeybChangeKeyboardControl:
+[  4793.181] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4793.182] rdpkeybChangeKeyboardControl:
+[  4793.182] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4794.182] rdpkeybChangeKeyboardControl:
+[  4794.182] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4794.182] rdpkeybChangeKeyboardControl:
+[  4794.182] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4796.772] rdpkeybChangeKeyboardControl:
+[  4796.772] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4796.772] rdpkeybChangeKeyboardControl:
+[  4796.772] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4797.460] rdpkeybChangeKeyboardControl:
+[  4797.460] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4797.460] rdpkeybChangeKeyboardControl:
+[  4797.460] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4798.126] rdpkeybChangeKeyboardControl:
+[  4798.126] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4798.126] rdpkeybChangeKeyboardControl:
+[  4798.126] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4798.315] rdpkeybChangeKeyboardControl:
+[  4798.315] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4798.315] rdpkeybChangeKeyboardControl:
+[  4798.315] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4801.479] rdpkeybChangeKeyboardControl:
+[  4801.479] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4801.480] rdpkeybChangeKeyboardControl:
+[  4801.480] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4801.914] rdpkeybChangeKeyboardControl:
+[  4801.914] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4801.914] rdpkeybChangeKeyboardControl:
+[  4801.914] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4843.918] rdpkeybBell:
+[  4843.918] rdpkeybBell:
+[  4891.089] rdpClientConRecv: g_sck_recv failed(returned 0)
+[  4891.089] rdpClientConDisconnect:
+[  4891.089] rdpClientConDisconnect: clientCon removed from dev list
+[  4891.089] rdpClientConRecvMsg: error
+[  4891.089] rdpClientConCheck: rdpClientConGotData failed
+[  4907.771] rdpClientConGotConnection:
+[  4907.771] rdpClientConGotConnection: g_sck_accept ok new_sck 4
+[  4907.772] rdpClientConGotConnection: adding only clientCon
+[  4907.774] rdpClientConProcessMsgVersion: version 0 0 0 1
+[  4907.774] rdpClientConProcessScreenSizeMsg: set width 1364 height 625 bpp 16
+[  4907.774] rdpClientConProcessScreenSizeMsg: shmemid 1638417 shmemptr 0x7f525d6bf000
+[  4907.774] rdpClientConProcessMsgClientInput: invalidate x 0 y 0 cx 1364 cy 625
+[  4907.776] KbdSync: toggling caps lock
+[  4907.777] rdpkeybChangeKeyboardControl:
+[  4907.777] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4907.777] rdpkeybChangeKeyboardControl:
+[  4907.777] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4907.779] rdpClientConProcessMsgClientInfo:
+[  4907.779]   got client info bytes 5744
+[  4907.779]   jpeg support 0
+[  4907.779]   offscreen support 0
+[  4907.779]   offscreen size 0
+[  4907.779]   offscreen entries 0
+[  4907.779]   client supports glyph cache but server disabled
+[  4907.779]   client can not do offscreen to offscreen blits
+[  4907.779]   client can do new(color) cursor
+[  4907.779]   client can not do multimon
+[  4907.779] rdpRRSetRdpOutputs: numCrtcs 1 monitorCount 0
+[  4907.779] rdpRRSetRdpOutputs: update output 0 left 0 top 0 width 1364 height 625
+[  4907.779] rdpLoadLayout: keylayout 0x00000409 variant  display 10
+[  4907.779] rdpkeybChangeKeyboardControl:
+[  4907.779] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4907.780] rdpkeybChangeKeyboardControl:
+[  4907.781] rdpkeybChangeKeyboardControl: autoRepeat on
+[  4907.782] rdpRRGetInfo:
+[  4907.881] rdpInDeferredUpdateCallback:
+[  4907.881] rdpkeybChangeKeyboardControl:
+[  4907.881] rdpkeybChangeKeyboardControl: autoRepeat off
+[  4907.881] rdpkeybChangeKeyboardControl:
+[  4907.881] rdpkeybChangeKeyboardControl: autoRepeat off
