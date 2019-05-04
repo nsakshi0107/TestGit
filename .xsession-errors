@@ -51,3 +51,207 @@ process 3541: arguments to dbus_message_new_method_call() were incorrect, assert
 This is normally a bug in some application using the D-Bus library.
 
 (nm-applet:3539): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfce4-terminal:4290): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:4437): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfsettingsd: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[3528]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[3528]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[3528]: SIGTERM received - shutting down ...
+gpg-agent[3528]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Wed May  1 16:34:03 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2408]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2409]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2401): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2401): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+
+(xfsettingsd:2422): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+process 2421: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfwm4:2411): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2420): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfce4-terminal:2547): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfce4-session-Message: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[2409]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2409]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2409]: SIGTERM received - shutting down ...
+gpg-agent[2409]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Fri May  3 05:09:15 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2408]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2409]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2401): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2401): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+process 2421: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:2429): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfce4-panel:2415): Wnck-CRITICAL **: wnck_workspace_is_virtual: assertion 'WNCK_IS_WORKSPACE (space)' failed
+
+(nm-applet:2420): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfwm4:2411): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(xfce4-terminal:2985): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:3116): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:3369): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[2409]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2409]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2409]: SIGTERM received - shutting down ...
+gpg-agent[2409]: gpg-agent (GnuPG) 2.1.11 stopped
+Xsession: X session started for ubuntu at Fri May  3 18:40:24 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2321]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2322]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2314): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2314): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+process 2336: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:2337): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2324): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2333): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfwm4:2324): xfwm4-WARNING **: output size (1256x340) and logical screen size (1364x625) do not match
+
+(xfce4-terminal:2488): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 104 (Connection reset by peer) on X server :10.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[2322]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2322]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2322]: SIGTERM received - shutting down ...
+gpg-agent[2322]: gpg-agent (GnuPG) 2.1.11 stopped
+Xsession: X session started for ubuntu at Sat May  4 03:44:54 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[2375]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[2376]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:2368): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:2368): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+process 2388: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:2394): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:2378): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:2387): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfce4-terminal:2514): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfsettingsd:2394): GLib-GObject-WARNING **: g_object_notify: object class 'UpClient' has no property named 'g-name-owner'
+
+(xfwm4:2378): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfwm4:2378): libxfce4ui-WARNING **: Disconnected from session manager.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+gpg-agent[2376]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[2376]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[2376]: SIGTERM received - shutting down ...
+gpg-agent[2376]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sat May  4 05:43:55 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1924]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1925]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1917): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1917): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+
+(xfsettingsd:1955): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:1927): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+process 1939: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(nm-applet:1936): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfce4-terminal:2130): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:4269): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+
+(xfce4-terminal:4269): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfce4-terminal:4269): libxfce4ui-WARNING **: Disconnected from session manager.
+
+(xfsettingsd:1955): libxfce4ui-WARNING **: ICE I/O Error
+
+(xfsettingsd:1955): libxfce4ui-WARNING **: Disconnected from session manager.
+gpg-agent[1925]: SIGHUP received - re-reading configuration and flushing cache
+gpg-agent[1925]: option file '/home/ubuntu/.gnupg/gpg-agent.conf': No such file or directory
+gpg-agent[1925]: SIGTERM received - shutting down ...
+gpg-agent[1925]: gpg-agent (GnuPG) 2.1.11 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :10.0.
+Xsession: X session started for ubuntu at Sat May  4 09:20:06 UTC 2019
+localuser:ubuntu being added to access control list
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/usr/bin/x-session-manager: X server already running on display :10.0
+xfce4-session-Message: SSH authentication agent is already running
+gpg-agent[1932]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1933]: gpg-agent (GnuPG) 2.1.11 started
+
+(xfce4-session:1925): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:1925): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/ubuntu/.cache/sessions/xfce4-session-ip-172-31-15-172:10, Does it exist? Permissions issue?
+process 1947: arguments to dbus_message_new_method_call() were incorrect, assertion "path != NULL" failed in file ../../dbus/dbus-message.c line 1340.
+This is normally a bug in some application using the D-Bus library.
+
+(xfsettingsd:1948): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+
+(xfwm4:1935): xfwm4-WARNING **: Error opening /dev/dri/card0: No such file or directory
+
+(nm-applet:1944): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(xfce4-terminal:2193): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:3710): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
